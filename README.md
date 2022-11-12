@@ -12,7 +12,7 @@ This is a website build with `reactjs` and deploy on `TBD`.
 
 Happy coding!
 
-### Challenges <sub>(jekyll)</sub>
+### Challenges <sub>(tbd)</sub>
 - Multi-language Implementation
 
 ### WEBSITE IS UNDER CONSTRUCTION
